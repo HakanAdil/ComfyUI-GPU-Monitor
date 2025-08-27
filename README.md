@@ -21,7 +21,7 @@ https://github.com/HakanAdil/ComfyUI-GPU-Monitor
 ### B) Manual
 ```bash
 cd <Your ComfyUI folder>/custom_nodes
-git clone https://github.com/<your-user>/ComfyUI-GPU-Monitor.git
+git clone https://github.com/HakanAdil/ComfyUI-GPU-Monitor.git
 # Optional:
 # <path-to-comfyui-venv>/python -m pip install -r ComfyUI-GPU-Monitor/requirements.txt
 # Restart ComfyUI

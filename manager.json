@@ -1,5 +1,6 @@
 {
   "name": "ComfyUI-GPU-Monitor",
+  "title": "ComfyUI GPU Monitor",
   "description": "Ultra-slim GPU monitor toolbar for ComfyUI (GPU%, VRAM%, °C, W).",
   "version": "1.0.0",
   "author": "Hakan Adil",

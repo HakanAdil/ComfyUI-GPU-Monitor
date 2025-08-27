@@ -1,0 +1,10 @@
+{
+  "name": "ComfyUI-GPU-Monitor",
+  "description": "Ultra-slim GPU monitor toolbar for ComfyUI (GPU%, VRAM%, °C, W).",
+  "version": "1.0.0",
+  "author": "Hakan Adil",
+  "url": "https://github.com/HakanAdil/ComfyUI-GPU-Monitor",
+  "license": "MIT",
+  "tags": ["monitor", "gpu", "overlay", "ui"],
+  "requirements": "requirements.txt"
+}

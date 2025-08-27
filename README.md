@@ -15,7 +15,7 @@ https://github.com/HakanAdil/ComfyUI-GPU-Monitor
 
 ### A) Via ComfyUI-Manager (recommended)
 1. Open **ComfyUI-Manager** → **Custom Nodes** → **Install from URL**  
-2. Paste: `https://github.com/<your-user>/ComfyUI-GPU-Monitor.git`  
+2. Paste: `https://github.com/HakanAdil/ComfyUI-GPU-Monitor.git`  
 3. Restart ComfyUI
 
 ### B) Manual
